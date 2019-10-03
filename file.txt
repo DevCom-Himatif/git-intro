@@ -1,4 +1,7 @@
 This is a simple text file.
-This isn't a single text file.
-HEHE HAHA
+Test1
+Test2
+Test3
 
+Testkedua
+Test1
